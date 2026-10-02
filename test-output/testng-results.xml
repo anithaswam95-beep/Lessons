@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-09-08T16:51:58 EDT" name="Default suite" finished-at="2026-09-08T16:52:30 EDT" duration-ms="32092">
+    <groups>
+    </groups>
+    <test started-at="2026-09-08T16:51:58 EDT" name="Default test" finished-at="2026-09-08T16:52:30 EDT" duration-ms="32092">
+      <class name="lessons.TestScripts.LoginTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:lessons.TestScripts.LoginTest@351d00c0]" started-at="2026-09-08T16:51:59 EDT" name="setup" finished-at="2026-09-08T16:52:09 EDT" duration-ms="10197" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyTitle()[pri:1, instance:lessons.TestScripts.LoginTest@351d00c0]" started-at="2026-09-08T16:52:09 EDT" name="verifyTitle" finished-at="2026-09-08T16:52:09 EDT" duration-ms="81" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitle -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:lessons.TestScripts.LoginTest@351d00c0]" started-at="2026-09-08T16:52:09 EDT" name="tearDown" finished-at="2026-09-08T16:52:10 EDT" duration-ms="472" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:lessons.TestScripts.LoginTest@351d00c0]" started-at="2026-09-08T16:52:10 EDT" name="setup" finished-at="2026-09-08T16:52:15 EDT" duration-ms="5236" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyUrl()[pri:2, instance:lessons.TestScripts.LoginTest@351d00c0]" started-at="2026-09-08T16:52:15 EDT" name="verifyUrl" finished-at="2026-09-08T16:52:15 EDT" duration-ms="35" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUrl -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:lessons.TestScripts.LoginTest@351d00c0]" started-at="2026-09-08T16:52:15 EDT" name="tearDown" finished-at="2026-09-08T16:52:16 EDT" duration-ms="1285" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:lessons.TestScripts.LoginTest@351d00c0]" started-at="2026-09-08T16:52:16 EDT" name="setup" finished-at="2026-09-08T16:52:20 EDT" duration-ms="4224" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyUrls()[pri:3, instance:lessons.TestScripts.LoginTest@351d00c0]" started-at="2026-09-08T16:52:20 EDT" name="verifyUrls" finished-at="2026-09-08T16:52:21 EDT" duration-ms="409" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUrls -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:lessons.TestScripts.LoginTest@351d00c0]" started-at="2026-09-08T16:52:21 EDT" name="tearDown" finished-at="2026-09-08T16:52:23 EDT" duration-ms="2061" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:lessons.TestScripts.LoginTest@351d00c0]" started-at="2026-09-08T16:52:23 EDT" name="setup" finished-at="2026-09-08T16:52:28 EDT" duration-ms="5241" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLogin()[pri:4, instance:lessons.TestScripts.LoginTest@351d00c0]" started-at="2026-09-08T16:52:28 EDT" name="verifyLogin" finished-at="2026-09-08T16:52:29 EDT" duration-ms="1260" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:lessons.TestScripts.LoginTest@351d00c0]" started-at="2026-09-08T16:52:29 EDT" name="tearDown" finished-at="2026-09-08T16:52:30 EDT" duration-ms="620" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- lessons.TestScripts.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
